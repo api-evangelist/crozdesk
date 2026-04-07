@@ -1,15 +1,13 @@
 aid: crozdesk
-url: 
-  https://raw.githubusercontent.com/api-evangelist/crozdesk/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-evangelist/crozdesk/refs/heads/main/apis.yml
 apis: []
 name: Crozdesk
 tags:
+  - B2B
   - SaaS
   - Software Discovery
-  - B2B
 type: Index
-image: 
-  https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 common:
   - url: https://crozdesk.com/
