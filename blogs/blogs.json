@@ -1,0 +1,13 @@
+{
+  "repo": "crozdesk",
+  "feeds": [
+    {
+      "source": "https://blog.crozdesk.com/",
+      "feed_url": "https://blog.crozdesk.com/feed/",
+      "saved": 10,
+      "title": "Crozdesk Software Blog"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:26:31Z"
+}
