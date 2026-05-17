@@ -1,6 +1,6 @@
 aid: crozdesk
 url: https://raw.githubusercontent.com/api-evangelist/crozdesk/refs/heads/main/apis.yml
-x-type: company
+kind: company
 name: Crozdesk
 description: >-
   Crozdesk helps businesses find and compare software across all major software
