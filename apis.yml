@@ -44,6 +44,8 @@ useCases:
   - name: Market Intelligence
     description: Analysts and product teams track competitive software categories.
 common:
+  - type: GitHubOrganization
+    url: https://github.com/crozdesk
   - url: https://crozdesk.com/
     name: Crozdesk Website
     type: Website
