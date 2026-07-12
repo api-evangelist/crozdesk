@@ -44,6 +44,8 @@ useCases:
   - name: Market Intelligence
     description: Analysts and product teams track competitive software categories.
 common:
+  - type: DomainSecurity
+    url: security/crozdesk-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/crozdesk
   - url: https://crozdesk.com/
