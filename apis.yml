@@ -22,6 +22,12 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/crozdesk.png
 tags:
   - B2B
+  - Software-as-a-Service
+  - Software Discovery
+  - Reviews
+  - Vendor Marketplace
+tags_raw:
+  - B2B
   - SaaS
   - Software Discovery
   - Reviews
