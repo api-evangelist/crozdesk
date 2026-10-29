@@ -64,47 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Crozdesk (https://crozdesk.com/) is a SaaS and B2B software discovery platform that helps businesses find, compare, and select the right software for their needs. The platform indexes 43,000+ software products across 377+ categories, offering expert reviews, user ratings, and AI-powered recommendations to guide software purchasing decisions.
+Crozdesk helps businesses find and compare software across all major software categories. The platform indexes 43,000+ products across 377+ categories with expert reviews, user ratings, and AI-powered recommendations to guide software purchasing decisions. Vendors can list and advertise their products through the SoftwareSelect vendor portal.
 
-## Overview
+**Areas:** B2B · Software-as-a-Service · Software Discovery · Reviews · Vendor Marketplace
 
-Crozdesk serves both software buyers and software vendors. Buyers can search, filter, and compare B2B SaaS products across categories including project management, CRM, marketing automation, accounting, HR, and IT security. Vendors can list their products on the platform to reach engaged business software buyers through free listings or paid campaigns via the SoftwareSelect vendor portal.
+## Crozdesk on APIs.io
 
-## APIs
+Everything profiled for Crozdesk is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/crozdesk/](https://apis.io/providers/crozdesk/)** — or go straight to one of the APIs or properties below.
 
-Crozdesk does not publish a public REST API at this time. Buyer intent data and vendor listing capabilities are delivered through the SoftwareSelect vendor portal and partner data providers (e.g., Datarade).
+### Published properties
 
-## Features
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- 43,000+ products indexed across 377+ software categories
-- Expert and user reviews with aggregated ratings
-- AI-powered software recommendations
-- Side-by-side product comparisons
-- B2B buyer intent data for vendor lead generation
-- Vendor advertising via pay-per-click, pay-per-lead, and buyer intent campaigns
-- SoftwareSelect vendor portal for managing listings and campaigns
+#### Security (1)
 
-## Use Cases
+Authentication, trust centre, and vulnerability disclosure.
 
-- Software selection and procurement research for B2B buyers
-- Vendor lead generation through paid campaigns
-- Account-based marketing using buyer intent signals
-- Competitive market intelligence in software categories
+- [Crozdesk Domain Security](https://apis.io/security/crozdesk/crozdesk-domain-security/)
 
-## Resources
+## Where to find this API
 
-- Website: https://crozdesk.com/
-- About: https://crozdesk.com/about-us
-- Software Categories: https://crozdesk.com/browse
-- Vendor Portal: https://vendor.crozdesk.com/
-- Vendor Policy: https://vendor.crozdesk.com/vendor-policy
-- Blog: https://blog.crozdesk.com/
-- Contact: https://crozdesk.com/contact-us
-- Privacy Policy: https://crozdesk.com/privacy-policy
-- X (Twitter): https://x.com/crozdesk
-- LinkedIn: https://www.linkedin.com/company/crozdesk
-- Facebook: https://www.facebook.com/crozdesk/
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Maintainers
+- [Website](https://crozdesk.com/)
+- [Blog](https://blog.crozdesk.com/)
+- [Terms of service](https://vendor.crozdesk.com/vendor-policy)
+- [Privacy policy](https://crozdesk.com/privacy-policy)
+- [GitHub](https://github.com/crozdesk)
 
-- Kin Lane (kin@apievangelist.com)
+## API Evangelist rating
+
+**Kin Score 14.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 34.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/crozdesk/](https://apis.io/providers/crozdesk/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Crozdesk: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/crozdesk/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
